@@ -59,3 +59,10 @@ typings/
 
 # next.js build output
 .next
+
+# database
+src/database/migrations/*
+src/database/seeders/*
+
+# Config
+src/config/*.json
